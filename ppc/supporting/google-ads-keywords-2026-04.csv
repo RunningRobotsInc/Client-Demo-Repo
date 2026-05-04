@@ -1,0 +1,31 @@
+keyword,match_type,campaign,spend,impressions,clicks,ctr,avg_cpc,conversions,conv_rate
+prairie ridge manufacturing,Exact,Branded - Prairie Ridge,612,1402,488,34.81,1.25,36,7.38
+prairie ridge mfg,Exact,Branded - Prairie Ridge,148,402,118,29.35,1.25,8,6.78
+prairie ridge cnc,Exact,Branded - Prairie Ridge,82,222,68,30.63,1.21,4,5.88
+prairie ridge welding,Exact,Branded - Prairie Ridge,52,142,42,29.58,1.24,2,4.76
+prairie ridge laser cutting,Exact,Branded - Prairie Ridge,42,118,32,27.12,1.31,2,6.25
+"5 axis cnc machining iowa",Phrase,5-Axis CNC Launch,812,11418,318,2.78,2.55,7,2.20
+"5 axis cnc iowa",Phrase,5-Axis CNC Launch,488,8002,202,2.52,2.42,4,1.98
+"five axis cnc machining",Phrase,5-Axis CNC Launch,388,6802,158,2.32,2.46,3,1.90
+"5-axis cnc service",Phrase,5-Axis CNC Launch,288,5402,118,2.18,2.44,2,1.69
+"complex cnc machining iowa",Phrase,5-Axis CNC Launch,222,4402,98,2.23,2.27,1,1.02
+"metal fabrication iowa",Phrase,Capability - Laser Cutting,740,12402,348,2.81,2.13,5,1.44
+"laser cutting iowa",Phrase,Capability - Laser Cutting,488,9418,222,2.36,2.20,2,0.90
+"fiber laser cutting service",Phrase,Capability - Laser Cutting,302,5818,148,2.54,2.04,1,0.68
+"laser cut metal parts",Phrase,Capability - Laser Cutting,222,5202,118,2.27,1.88,0,0.00
+"sheet metal laser cutting",Phrase,Capability - Laser Cutting,162,4202,82,1.95,1.98,0,0.00
+"insulation contractor iowa",Phrase,Geo - Iowa Engineering Buyers,488,8888,188,2.12,2.60,5,2.66
+"metal fabrication cedar rapids",Phrase,Geo - Iowa Engineering Buyers,288,5402,118,2.18,2.44,3,2.54
+"iowa metal manufacturer",Phrase,Geo - Iowa Engineering Buyers,222,4818,98,2.03,2.27,2,2.04
+"midwest metal fabrication",Phrase,Geo - Iowa Engineering Buyers,162,3402,82,2.41,1.98,1,1.22
+"custom welded assemblies",Phrase,Industry - Ag Equipment,488,9202,188,2.04,2.60,3,1.60
+"ag equipment metal parts",Broad,Industry - Ag Equipment,402,8118,184,2.27,2.18,1,0.54
+"farm equipment fabrication",Broad,Industry - Ag Equipment,222,5402,82,1.52,2.71,1,1.22
+"tractor parts fabrication",Broad,Industry - Ag Equipment,98,3402,32,0.94,3.06,0,0.00
+"tier 1 fabricator alternative",Phrase,Competitor - Tier-1 Fabricator,244,4818,122,2.53,2.00,0,0.00
+"competitor metal fabricator",Phrase,Competitor - Tier-1 Fabricator,148,3402,68,2.00,2.18,0,0.00
+"metal fabricator vs",Phrase,Competitor - Tier-1 Fabricator,98,2402,42,1.75,2.33,1,2.38
+"midwest tier 1 fabricator",Phrase,Competitor - Tier-1 Fabricator,54,1402,22,1.57,2.45,0,0.00
+"stainless steel machine guards",Phrase,5-Axis CNC Launch,288,5202,132,2.54,2.18,2,1.52
+"custom metal brackets",Phrase,Capability - Laser Cutting,312,6402,144,2.25,2.17,1,0.69
+"iso 9001 metal fabricator",Phrase,Capability - Laser Cutting,388,6818,168,2.46,2.31,2,1.19

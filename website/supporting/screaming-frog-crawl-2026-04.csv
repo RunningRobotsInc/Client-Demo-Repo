@@ -1,0 +1,34 @@
+url,status_code,title,meta_description_length,h1,word_count,lcp_75th_ms,inp_75th_ms,cls_75th,issues
+https://prairieridgemfg.com/,200,Prairie Ridge Manufacturing | Iowa Custom Metal Fabrication,158,Prairie Ridge Manufacturing,1842,1830,90,0.03,
+https://prairieridgemfg.com/capabilities,200,Manufacturing Capabilities | Prairie Ridge,148,Our Manufacturing Capabilities,1488,1920,95,0.04,
+https://prairieridgemfg.com/capabilities/cnc-machining,200,5-Axis CNC Machining | Prairie Ridge Iowa,162,5-Axis & 3-Axis CNC Machining,2402,2150,142,0.04,INP regression > 100ms threshold (third-party widget); detected Apr 5
+https://prairieridgemfg.com/capabilities/laser-cutting,200,Fiber Laser Cutting | Prairie Ridge Manufacturing,151,Fiber Laser Cutting Services,1802,1980,98,0.05,Title length OK; missing FAQ schema
+https://prairieridgemfg.com/capabilities/welding,200,Welding Services - MIG TIG Robotic | Prairie Ridge,168,Welding Services,1602,1980,96,0.04,Missing FAQ schema
+https://prairieridgemfg.com/capabilities/press-brake,200,Press Brake Forming | Prairie Ridge Manufacturing,152,Press Brake Forming Services,1402,2020,94,0.05,Missing FAQ schema
+https://prairieridgemfg.com/capabilities/finishing,200,Powder Coating & Finishing | Prairie Ridge,144,In-House Finishing Services,1202,1980,96,0.04,
+https://prairieridgemfg.com/capabilities/3-axis-cnc-machining,404,Page Not Found,0,Page Not Found,42,1830,90,0.03,404 - referenced from external article (Iowa Manufacturing Today). Add 301 redirect to /capabilities/cnc-machining
+https://prairieridgemfg.com/industries,200,Industries We Serve | Prairie Ridge,148,Industries We Serve,1102,1880,93,0.04,
+https://prairieridgemfg.com/industries/agriculture,200,Agriculture Equipment Metal Fabrication | Prairie Ridge,168,Agriculture Equipment,2102,2020,99,0.05,
+https://prairieridgemfg.com/industries/food-processing,200,Food Processing Equipment Fabrication,151,Food Processing Equipment Manufacturers,1802,2010,99,0.05,
+https://prairieridgemfg.com/industries/industrial-equipment,200,Industrial Equipment Metal Fabrication,148,Industrial Equipment OEMs,1602,1990,97,0.04,
+https://prairieridgemfg.com/quote,200,Request a Quote | Prairie Ridge Manufacturing,144,Request a Quote (RFQ),822,1840,92,0.03,
+https://prairieridgemfg.com/case-studies,200,Customer Case Studies | Prairie Ridge,142,Case Studies,1342,1920,95,0.04,
+https://prairieridgemfg.com/case-studies/iowa-ag-oem-bracket-program,200,Case Study: Tier-1 Ag OEM Bracket Program,168,How We Cut Cycle Time on a Tier-1 Ag OEM Program,2802,1880,91,0.04,
+https://prairieridgemfg.com/case-studies/cedar-rapids-food-processor,200,Case Study: Cedar Rapids Food Processor Stainless Guards,178,Stainless Guards for Cedar Rapids Food Processor,2402,1920,95,0.04,
+https://prairieridgemfg.com/about,200,About Prairie Ridge Manufacturing | Cedar Rapids Iowa,148,About Prairie Ridge,1602,1830,90,0.03,
+https://prairieridgemfg.com/about/team,200,Our Team | Prairie Ridge Manufacturing,142,Meet the Team,1102,1830,90,0.03,
+https://prairieridgemfg.com/about/certifications,200,Certifications | Prairie Ridge ISO 9001 AWS D1.1,148,Our Certifications,1102,1830,90,0.03,
+https://prairieridgemfg.com/contact,200,Contact Prairie Ridge Manufacturing | Iowa,144,Contact Us,902,1840,92,0.04,
+https://prairieridgemfg.com/resources,200,Engineering Resources | Prairie Ridge,148,Engineering Resources,1202,1840,90,0.03,
+https://prairieridgemfg.com/resources/dfm-checklist,200,DFM Checklist for Ag-Equipment Engineers,148,DFM Checklist,1488,1920,97,0.04,
+https://prairieridgemfg.com/resources/material-guide,200,Material Selection Guide | Prairie Ridge,148,Material Selection Guide,1602,1880,92,0.04,
+https://prairieridgemfg.com/resources/tolerance-chart,200,Tolerance Reference Chart | Prairie Ridge,144,Tolerance Reference,1402,1900,93,0.04,
+https://prairieridgemfg.com/blog,200,Engineering Blog | Prairie Ridge Manufacturing,148,Engineering Blog,1342,1880,93,0.04,
+https://prairieridgemfg.com/blog/5-axis-cnc-launch,200,Introducing 5-Axis CNC at Prairie Ridge,168,Introducing 5-Axis CNC Machining,2402,1880,93,0.04,
+https://prairieridgemfg.com/blog/dfm-checklist-for-ag-oems,200,DFM Checklist for Ag-Equipment Engineers,158,DFM Checklist for Ag-Equipment Engineers,2102,1880,93,0.04,
+https://prairieridgemfg.com/blog/2026-energy-code-changes,200,2026 OSHA Machine Guarding Updates,148,2026 OSHA Machine Guarding,1802,1880,93,0.04,
+https://prairieridgemfg.com/blog/tolerance-stack-up-basics,200,Tolerance Stack-Up Basics for Engineers,151,Tolerance Stack-Up Basics,2002,1880,93,0.04,
+https://prairieridgemfg.com/blog/mig-vs-tig-vs-robotic,200,MIG vs TIG vs Robotic Welding Decision Guide,162,MIG vs TIG vs Robotic Welding,2202,1880,93,0.04,
+https://prairieridgemfg.com/blog/press-brake-vs-stamping,200,Press Brake vs Stamping When to Choose,148,Press Brake vs Stamping,1802,1880,93,0.04,
+https://prairieridgemfg.com/blog/why-lead-time-beats-unit-cost,200,Why Lead-Time Beats Unit Cost,142,Why Lead-Time Beats Unit Cost,1402,1880,93,0.04,
+https://prairieridgemfg.com/sitemap.xml,200,Sitemap,0,,0,1830,90,0.03,Sitemap missing 4 new product pages (auto-regenerated Apr 28)

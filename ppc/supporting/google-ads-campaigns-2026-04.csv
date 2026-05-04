@@ -1,0 +1,9 @@
+campaign_name,status,budget_daily,spend,impressions,clicks,ctr,avg_cpc,conversions_rfq,conversions_all,conv_rate_rfq,cpl_rfq
+Branded - Prairie Ridge,Active,40,1108,12818,802,6.25,1.38,50,72,6.23,22.18
+5-Axis CNC Launch,Active,80,2440,42118,988,2.35,2.47,17,28,1.72,143.53
+Capability - Laser Cutting,Active,65,1914,38818,884,2.28,2.16,8,15,0.90,239.25
+Geo - Iowa Engineering Buyers,Active,40,1202,22418,514,2.29,2.34,11,18,2.14,109.27
+Industry - Ag Equipment,Active,40,1212,28118,488,1.74,2.48,5,12,1.02,242.40
+Competitor - Tier-1 Fabricator,Paused (May 5),18,544,15818,262,1.66,2.08,1,4,0.38,544.00
+Industry - Food Processing (paused),Paused,0,0,0,0,0.00,0.00,0,0,0.00,0.00
+Industry - Industrial Equipment (paused),Paused,0,0,0,0,0.00,0.00,0,0,0.00,0.00

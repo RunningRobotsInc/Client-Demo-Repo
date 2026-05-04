@@ -1,0 +1,10 @@
+send_date,subject_line,segment,recipients,delivered,opens,open_rate,clicks,ctr,unsubscribes,bounces
+2026-04-11,"OSHA just updated machine guarding. What it means for your spec.",Engineering Buyers,4418,4402,1721,39.10,238,5.40,9,16
+2026-04-22,"How a Cedar Rapids processor cut audit prep time in half.",Engineering Buyers,4408,4392,1657,37.70,180,4.10,7,16
+2026-03-11,"5-axis just landed at Prairie Ridge",Engineering Buyers,4388,4372,1801,41.20,280,6.40,6,16
+2026-03-25,"Behind the 5-axis cell: tolerances and turn-around",Engineering Buyers,4392,4376,1681,38.40,210,4.80,4,16
+2026-02-11,"Wash-Down Spec Refresh — What's Changed",Engineering Buyers,4368,4352,1654,38.00,279,6.40,5,16
+2026-02-25,"Tolerance tips engineers actually use",Engineering Buyers,4378,4362,1588,36.40,209,4.80,4,16
+2026-01-14,"2026 Q1 Outlook + Drawing Tips",Engineering Buyers,4302,4286,1689,39.40,257,6.00,8,16
+2026-01-28,"How a customer cut weld time in half",Engineering Buyers,4318,4302,1601,37.20,224,5.20,5,16
+2025-12-12,"Wrapping the Year",Engineering Buyers,4288,4272,1502,35.20,180,4.20,3,16
