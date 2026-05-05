@@ -30,6 +30,8 @@ The MD files are designed to be readable by humans *and* easy for an AI assistan
 | [`integrations/`](integrations/) | What's connected, where data flows, how it's authed |
 | [`automations/`](automations/) | Scheduled and triggered workflows running for this client |
 | [`transcripts/`](transcripts/) | Meeting notes and call summaries |
+| [`operations/`](operations/) | Open production jobs, machine utilization, shop capacity |
+| [`crm/`](crm/) | Pipeline by stage, source attribution, deal detail |
 
 ---
 
@@ -54,8 +56,10 @@ The fastest way to see why we deliver data this way is to:
 3. Ask it a question. Examples:
    - "Which capability page lost the most traffic month-over-month in April?"
    - "What's our worst-performing PPC campaign this quarter?"
-   - "Summarize the conversation from the March quarterly review."
+   - "Summarize the conversation from the Q1 review."
    - "What ag-equipment search terms should we be ranking for but aren't?"
+   - "Which open production jobs are most likely to ship late?"
+   - "What's the ROI on the 5-axis launch so far?"
 
 The whole point of this format is that the data travels with you — into your tools, your workflows, your decisions — instead of staying trapped in a dashboard.
 
