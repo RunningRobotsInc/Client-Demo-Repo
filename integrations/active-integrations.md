@@ -22,7 +22,6 @@ This file lists every system Prairie Ridge has connected to the Running Robots d
 | Zoho Projects | Read | Tasks, milestones, project status | OAuth (shared with CRM) | Prairie Ridge IT | 12-month rolling |
 | Avoma | Read | Meeting recordings, transcripts | API key | RR Engineering | Quarterly |
 | LinkedIn Company Page | Read | Posts, impressions, engagements, followers | OAuth (Marketing Developer Platform) | RR Engineering | 60-day rolling |
-| HubSpot Forms | Read | Form submissions on gated assets | API key | RR Engineering | Annual |
 
 ---
 
