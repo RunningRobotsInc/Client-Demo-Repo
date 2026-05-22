@@ -32,6 +32,7 @@ The MD files are designed to be readable by humans *and* easy for an AI assistan
 | [`transcripts/`](transcripts/) | Meeting notes and call summaries |
 | [`operations/`](operations/) | Open production jobs, machine utilization, shop capacity |
 | [`crm/`](crm/) | Pipeline by stage, source attribution, deal detail |
+| [`Running Robots Support/`](Running%20Robots%20Support/) | How to engage Running Robots support — team, workflow, templates, response expectations |
 
 ---
 
