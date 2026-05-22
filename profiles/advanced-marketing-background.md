@@ -6,6 +6,8 @@
 
 ## Persona — Manny Facture, VP of Sales & Marketing, Prairie Ridge Manufacturing
 
+<img src="./images/manny-facture.jpg" alt="Manny Facture, VP of Sales & Marketing at Prairie Ridge Manufacturing" width="280" align="right">
+
 I'm Manny. I joined Prairie Ridge in 2024 after eleven years at John Deere on the OEM industrial supply marketing team. MBA from Iowa with a marketing concentration. I report directly to the owner (Dale) and I'm internally accountable for revenue growth, lead quality, and brand presence.
 
 I evaluated four agencies before hiring Running Robots and I personally vetted the proposal. I read every monthly report cover-to-cover, and I pull the supporting CSVs into Looker for my own dashboards. I expect to be **the most marketing-literate person in the room** at Prairie Ridge — including with our agency partners.
